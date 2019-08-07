@@ -1,0 +1,26 @@
+
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS001','aashop','Seoul','Gwangjingu','Gungadong','02-111-1111','Parkseojun','psj@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS002','bbshop','Seoul','Eunpyeonggu','Bulgwangdong','02-222-2222','Choihongman','chm@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS003','ccshop','Daegu','Dalseogu','seongdangdong','02-333-3333','Jeonghaein','jhi@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS004','ddshop','Daegu','Suseonggu','Beomeodong','02-444-4444','Yujeong','yj@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS005','eeshop','Busan','Yeongdogu','Cheonghagdong','02-555-5555','Kimgoeun','kge@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS006','ffshop','Seoul','Dongjakgu','Sangdodong','02-666-6666','Gongyu','gy@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS007','ggshop','Seoul','Gurogu','Sindorimdong','02-777-7777','Joinseong','jis@naver.com');
+
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS008','hhshop','Busan','Dongraegu','Nagmindong','02-888-8888','Chataehyeon','cth@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS009','iishop','Seoul','Gangnamgu','samsungdong','02-999-9999','Sonnaeun','sne@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS010','jjshop','Seoul','Songpagu','Gamsildong','02-123-1234','Sulhyeon','sh@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS011','kkshop','Busan','donggu','Cholyangdong','02-456-4567','Kimjunhyeon','kjh@naver.com');
+
+insert into repairshop(shopID,shopName,city,ku,dong,shopPhoneNum,shopManagerName,shopManagerMail) values('RPS012','llshop','Seoul','Jongrogu','Cheongundong','02-789-7899','Seongdongil','sdi@naver.com');

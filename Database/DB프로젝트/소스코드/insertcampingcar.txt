@@ -1,0 +1,32 @@
+﻿
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20001','10003','Toyota','56JO9968',4,'http://img.hani.co.kr/imgdb/resize/2017/0920/00502866_20170920.JPG','A steady ride',100000,'2010-04-31');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20002','10004','Sonata','53GEO9169',3,'https://www.hyundaiusa.com/korean/images/vehicles/pages/vlp/2018/sonata/vlp/compare-jellies/2018-sonata-ltd-20t-symphony-silver.png','A clean inerior',80000,'2010-04-22');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20003','10001','Chevrolet','21JO2583',3,'http://cfile29.uf.tistory.com/image/202F114A50A365923B3502','A sweet smell',90000,'2010-03-12');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20004','10004','Kia','48BEO3712',2,'https://compphoto.incruit.com/2014/01/%EA%B8%B0%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A83.JPG','A cool air conditioner',120000,'2011-01-01');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20005','10005','Pride','18MA2278',4,'http://cfile23.uf.tistory.com/image/19725E474ED899FC021D93','Confortable seats',100000,'2009-12-11');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20006','10006','Tico','61A1099',5,'http://www.sobilife.com/news/photo/201305/1962_119_4417.jpg','A feeling of ease',150000,'2008-07-13');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20007','10007','Matiz','33YUK4010',9,'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Daewoo_Matiz_front_20090920.jpg/1200px-Daewoo_Matiz_front_20090920.jpg','Comfortable camping',70000,'2008-11-19');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20008','10004','Grandeur','01GEO5000',5,'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZcZ_3Ixw0CtKmJ3UuQj8fFBxgy0UOXwXN9ZoK_imx0y0_W5o','Fun camping',110000,'2007-05-05');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20009','10009','Avante','12NU5169',5,'http://ourrentcar.com/data/file/gallery/2084202320_tpRrDHAd_c85fe0674a8fa4474d8c87481c5b68e363a5cfbb.png','Largeaccommodation',130000,'2010-03-31');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20010','10010','Volkswagen','49RO4518',4,'http://www.iautocar.co.kr/news/photo/201711/5200_30391_4311.jpg','Safe camping',60000,'2006-12-31');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20011','10007','Morning','50DEO7979',3,'http://autoimg.danawa.com/gallery/3333/20170418%20(2).jpg','Hottest camping',170000,'2011-06-12');
+
+insert into campingcar(carRegtID,campingcar_rentCorpID,carName,carNum,carMaxPeopNum,carImage,carInfo,carrentCost,carRegtDate) values('20012','10012','Chairman','60LA7213',8,'http://global-autonews.com/data/file/ct_097/1@12330_1_1.jpg','Thrilling camping',140000,'2009-09-09');	
+
+
+
+
+
+
+

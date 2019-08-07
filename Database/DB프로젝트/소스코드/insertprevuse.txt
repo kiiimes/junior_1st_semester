@@ -1,0 +1,24 @@
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123001,'14-000001-10','20004','2016-03-01');
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123002,'07-222222-20','20005','2015-04-16');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123003,'12-084384-30','20004','2011-11-12');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123004,'14-000001-10','20001','2013-03-14');			
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123005,'07-222222-20','20002','2015-07-31');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123006,'23-150032-13','20009','2010-11-11');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123007,'09-612301-70','20005','2012-02-14');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123008,'12-084384-30','20010','2015-06-24');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123009,'14-000001-10','20001','2011-05-05');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123010,'12-084384-30','20012','2014-08-22');	
+			
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123011,'95-078492-50','20011','2016-01-01');				
+
+insert into prevuse(prevUseNo,prevUse_licenseID,prevUse_carRegtID,prevUseDate) values(123012,'14-000001-10','20004','2013-04-04');				

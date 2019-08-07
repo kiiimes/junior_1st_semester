@@ -1,0 +1,16 @@
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\bin\Debug\윈도폼.exe
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\bin\Debug\윈도폼.pdb
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.Form1.resources
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.Properties.Resources.resources
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.csproj.GenerateResource.Cache
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.exe
+c:\users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.pdb
+C:\Users\ghwnw\onedrive\documents\visual studio 2010\Projects\윈도폼\윈도폼\obj\x86\Debug\윈도폼.csprojResolveAssemblyReference.cache
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.exe
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.pdb
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\bin\Debug\윈도폼.exe
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\bin\Debug\윈도폼.pdb
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.csprojResolveAssemblyReference.cache
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.Form1.resources
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.Properties.Resources.resources
+C:\Users\GOOBNE\Desktop\지현\C# 강의노트\c# 프로젝트\윈도폼\윈도폼\obj\x86\Debug\윈도폼.csproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('14-000001-10','Kimyejoon','Seoul','Jongnogu','Hyojadong','010-1234-1234','hong@naver.com');
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('07-222222-20','Leedoyun','Busan','Sahagu','Hadandong','010-1313-1313','siva@hanmail.net');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('12-084384-30','Parkjihoo','Busan','Sasanggu','Moradong','010-1212-1212','jobs@gmail.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('99-020756-00','Shinjiho','Daegu','Bukgu','Joyadong','010-1515-1515','dongil@naver.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('02-041750-90','Yunseojun','Daegu','Namgu','Bongduckdong','010-1414-1414','dongk@hanmail.net');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('03-009730-40','Hwangseoyeon','Daegu','Donggu','Shinamdong','010-1616-1616','juju@naver.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('09-612301-70','Parkjimin','Busan','Haeundaegu','Bansongdong','010-1717-1717','eunji29@naver.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('12-123456-12','Leejia','Seoul','Seongbukgu','Seongbukdong','010-1818-1818','eydgns@gmail.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('13-097812-30','Kimminseo','Seoul','Dobonggu','Banghakdong','010-1919-1919','eunju@gmail.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('18-234567-80','Jeongjuho','Seoul','Gangnamgu','Samsungdong','010-2020-2020','tr29@hanmail.net');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('95-078492-50','Kimsuhyun','Busan','Junggu','Yeongjudong','010-2121-2121','yangkoon@naver.com');	
+
+insert into customer(licenseID,cusName,city,ku,dong,cusPhoneNum,cusMail) values('23-150032-13','Seojina','Busan','Seogu','Nambumindong','010-2323-2323','gildong@gmail.com');	

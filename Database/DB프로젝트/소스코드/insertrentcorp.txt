@@ -1,0 +1,29 @@
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10001','gubne','Seoul','Gwangjingu','Neungdong','02-111-1111','KimEunsuk','dkdla58@hanmail.net');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10002','vantech','Busan','Seogu','Bumindong','02-222-2222','ChoiGoya','np12@naver.com');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10003','mymy','Daegu','Namgu','Daemyungdong','02-333-3333','OkSonghae','oksy97@naver.com');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10004','sejin','Daegu','Suseonggu','Manchondong','02-444-4444','ChoiJihyun','ulul@gmail.com');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10005','union','Busan','Donggu','Sujungdong','02-555-5555','ParkJisung','ekfh4@hanmail.net');		
+
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10006','coach','Seoul','Dongjakgu','Sangdodong','02-666-1111','LeeMatae','lmt11@naver.com');	
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10007','mikuk','Seoul','Gurogu','Sindorimdong','02-777-1111','LeeHojin','lhj12@hanmail.net');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10008','sedo','Busan','Dongraegu','Suandong','02-888-1111','KimJuwon','dkdk3@daum.net');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10009','hana','Daegu','Junggu','Jeondong','02-999-1111','KimHyojin','take3@daum.net');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10010','okay','Seoul','Songpagu','Jamsildong','02-111-2222','KangSeungwon','makeit@gmail.com');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10011','caraban','Busan','Suyeonggu','Mangmidong','02-111-3333','KimMira','el10@gmail.com');
+
+insert into rentcorp(rentCorpID,corpName,city,ku,dong,corpPhoneNum,corpManagerName,corpManagerMail) values('10012','dana','Busan','Geumjunggu','Namsandong','02-111-4444','KimPodo','heyhi@hanmail.net');
+
+	
+
+

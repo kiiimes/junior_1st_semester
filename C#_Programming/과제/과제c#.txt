@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication7
+{
+    class Phone
+    {
+        string name, tel;
+        int i;
+
+        public Phone() { }
+        public Phone(int i)
+        {
+            this.i = i;
+        }
+        public string SetName(string value)
+        {
+            this.name = value;
+        }
+
+        public void input()
+        {
+            Phone[] ph = new Phone[i];
+            string namtel;
+            string sName;
+
+            for (int j=0;j<i ; j++)
+            {
+
+                Console.WriteLine("이름과 전화번호(이름과 번호는 빈 칸 없이 입력)>> ");
+                namtel = Console.ReadLine();
+                string[] nt = namtel.Split(' ');
+                
+                Console.WriteLine(nt[0]);
+                ph[j].name = nt[0];
+                ph[j].tel = nt[1];
+            }
+
+            Console.WriteLine("저장되었습니다...");
+
+            while (true)
+            {
+                Console.WriteLine("검색할 이름>> ");
+                sName = Console.ReadLine();
+
+                if (sName == "그만") break;
+
+                for (int j = 0;j < i; j++)
+                {
+                    if (ph[j].name == sName) Console.WriteLine(ph[j].name + "의 번호는" + ph[i].tel + "입니다.");
+                    else if (i == (j - 1)) Console.WriteLine(sName + "이 없습니다.");
+                }
+
+            }
+
+        }
+        
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num;
+            string sName;
+            Console.Write("인원수>> ");
+            num = int.Parse(Console.ReadLine());
+
+            Phone p = new Phone(num);
+            p.input();
+
+           
+        }
+    }
+}
